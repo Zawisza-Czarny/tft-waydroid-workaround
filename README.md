@@ -24,13 +24,13 @@ The module replaces Waydroid's ARM translator with HPE-14. Do not install it if 
 From the extracted guide directory, run:
 
 ```bash
-./build-module.sh
+bash build-module.sh
 ```
 
 On Fedora Atomic, if the tools are in a Toolbox:
 
 ```bash
-toolbox run ./build-module.sh
+toolbox run bash ./build-module.sh
 ```
 
 The script downloads a pinned HPE-14 revision, verifies its binary hash, builds the helper, and creates `tft-waydroid-hpe14.zip` beside the guide. On Fedora, install missing build tools with `sudo dnf install git python3 gcc glibc-static` (or run that inside the Toolbox).
