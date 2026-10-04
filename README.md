@@ -6,6 +6,10 @@
 >
 > Publishing this project does not establish permission to use it. Riot's rules also prohibit encouraging violations of its terms. This disclaimer does not authorize use or redistribution and does not remove the associated risks. This project is not affiliated with Riot Games.
 
+ **AI-assisted development disclosure**
+>
+> This project was developed with substantial AI assistance (“vibe coded”) and tested on one setup. It has not been independently audited. It may contain bugs or incorrect assumptions; reaching the main menu does not establish reliability, compatibility with other versions, or safety from account bans.
+
 This experimental workaround was tested with one specific TFT and Waydroid build. The test reached TFT's signed-in main menu; a match was not tested. It may not work with other versions.
 
 ## Before you start
