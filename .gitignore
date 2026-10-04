@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+tft-startup-compat
+*.zip
+*.log
+hpe14-runtime/
+prebuilts/
+run/
+.env
